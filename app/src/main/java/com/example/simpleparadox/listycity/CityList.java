@@ -78,6 +78,4 @@ public class CityList {
         return cities.size();
     }
 
-    public void deleteAllCities() {}
-
 }
